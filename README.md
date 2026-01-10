@@ -1,7 +1,6 @@
 # 👋 Hi, I'm Devasena Loganathan
 
-Welcome to my GitHub profile!  
-I am a **B.Tech student in Information Technology** at **KPR Institute of Engineering and Technology**, currently in my **2nd year**, with a strong interest in **Cloud Computing and Cybersecurity**. I enjoy exploring **real-world problems** and building **practical, technology-driven solutions**.
+Welcome to my GitHub profile! I am a B.Tech student in Information Technology at KPR Institute of Engineering and Technology, currently in my 2nd year, with a strong interest in **Cloud Computing and Cybersecurity**. I enjoy exploring real-world problems and building practical, technology-driven solutions.
 
 
 
@@ -11,7 +10,7 @@ I am a **B.Tech student in Information Technology** at **KPR Institute of Engine
 - 🏫 **KPR Institute of Engineering and Technology**
 - 💼 **Student**
 - 🌩️ Passionate about **Cloud Computing & Cyber Security**
-- 🧠 Interested in solving **real-world problems** through technology
+- 🧠 Interested in solving real-world problems through technology
 
 
 
