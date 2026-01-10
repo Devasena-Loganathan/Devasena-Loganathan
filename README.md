@@ -43,10 +43,8 @@ Working on a Python-based chatbot aimed at assisting with basic medical diagnost
 
 
 
-🤝 Connect with Me
+## 🤝 Connect with Me
+- 💼 **LinkedIn:** [Devasena Loganathan](https://www.linkedin.com/in/devasena-v-l-1a813a328)
+- 📧 **Email:** devasenalearner@gmail.com
+- 🐙 **GitHub:** [devasenaloganathan-cloud](https://github.com/devasenaloganathan-cloud)
 
-💼 LinkedIn: Devasena Loganathan
-
-📧 Email: devasenalearner@gmail.com
-
-🐙 GitHub: devasenaloganathan-cloud
