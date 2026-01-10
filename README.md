@@ -33,13 +33,13 @@ I am currently expanding my knowledge in Cloud Computing, focusing on understand
 
 
 
-🏆 Projects
+## 🏆 Projects
 
-🌐 Personal Website
-Created a personal website using Weebly to showcase my profile and skills.
+### 🌐 Personal Website
+Created a personal website using **Weebly** to showcase my profile, skills, and academic background.
 
-🩺 Medical Diagnostic Chatbot (Ongoing)
-Working on a Python-based chatbot aimed at assisting with basic medical diagnostics.
+### 🩺 Medical Diagnostic Chatbot *(Ongoing)*
+Developing a **Python-based medical diagnostic chatbot** designed to assist users with basic symptom analysis and preliminary health guidance.
 
 
 
