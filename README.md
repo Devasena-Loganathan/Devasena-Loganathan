@@ -38,5 +38,5 @@ Developing a Python-based medical diagnostic chatbot designed to assist users wi
 ## 🤝 Connect with Me
 - 💼 **LinkedIn:** [Devasena Loganathan](https://www.linkedin.com/in/devasena-v-l-1a813a328)
 - 📧 **Email:** devasenalearner@gmail.com
-- 🐙 **GitHub:** [devasenaloganathan-cloud](https://github.com/devasenaloganathan-cloud)
+- 🐙 **GitHub:** [Devasena-Loganathan](https://github.com/devasenaloganathan-cloud)
 
